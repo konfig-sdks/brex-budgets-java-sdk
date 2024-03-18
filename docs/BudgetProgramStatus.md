@@ -1,0 +1,15 @@
+
+
+# BudgetProgramStatus
+
+## Enum
+
+
+* `ACTIVE` (value: `"BUDGET_PROGRAM_STATUS_ACTIVE"`)
+
+* `INACTIVE` (value: `"BUDGET_PROGRAM_STATUS_INACTIVE"`)
+
+* `DELETED` (value: `"BUDGET_PROGRAM_STATUS_DELETED"`)
+
+
+

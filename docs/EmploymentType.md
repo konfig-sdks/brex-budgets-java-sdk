@@ -1,0 +1,19 @@
+
+
+# EmploymentType
+
+## Enum
+
+
+* `FULL_TIME` (value: `"EMPLOYMENT_TYPE_FULL_TIME"`)
+
+* `PART_TIME` (value: `"EMPLOYMENT_TYPE_PART_TIME"`)
+
+* `CONTRACTOR` (value: `"EMPLOYMENT_TYPE_CONTRACTOR"`)
+
+* `INTERN` (value: `"EMPLOYMENT_TYPE_INTERN"`)
+
+* `FREELANCE` (value: `"EMPLOYMENT_TYPE_FREELANCE"`)
+
+
+
